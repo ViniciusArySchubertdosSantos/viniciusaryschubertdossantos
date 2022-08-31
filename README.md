@@ -4,6 +4,6 @@
   
             <-Html-> <-CSS-> <-JS->
 
-               <-Python-> <-Django>
+               <-Python-> <-Django->
 
 
