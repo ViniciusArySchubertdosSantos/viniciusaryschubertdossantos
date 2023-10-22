@@ -1,6 +1,6 @@
 #### <-Bem vindo-> 😎👍
 
-     🐱‍👤 Programando e aprendendo 🐱‍👤
+     🐱‍👤 Programando 🐱‍👤
   
             <-Html-> <-CSS-> <-JS->
 
